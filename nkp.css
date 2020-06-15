@@ -1,25 +1,27 @@
-p{
+.p{
   margin-top: 0;
   margin-bottom: 0;
 }
-body{
+.body{
   margin:0;
-  }
+}
   .topcontainer {
   background-color: #abf0e9;
+  background-size: auto;
+  background-image: url("https://www.nationalobserver.com/sites/nationalobserver.com/files/img/2018/12/28/adventure-alpine-alps-714258.jpg");
   margin: 0;
-  height: 500px;
+  height: 2000px;
 }
 .aa{
   height: 100px;
   width: 100px;
   border-radius: 100px;
 }
-h1{
+.h1{
   margin-top: 0;
 }
 .a{
-    padding-left: 800px;
+    padding-left: 900px;
 }
 .b{
    padding-left: 60px;
@@ -27,21 +29,41 @@ h1{
 .c{
    padding-left: 60px;
 }
+.m1{
+
+    height: 200px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 100px;
+    font-size: 80px;
+  }
+  .m2{
+
+      height: 200px;
+      padding-left: 200px;
+      padding-right: 200px;
+      padding-top: 100px;
+      font-size: 80px;
+      margin-top: 700px;
+    }
+    .s1{
+      background-color: lightgreen;
+      margin-left: 10px;
+    }
+    .s2{
+      background-color: lightgreen;
+      margin-left: 15px;
+    }
 .middlecontainer{
-    background-color: lightgreen;
+   background-color: black;
     height: 200px;
     padding-left: 200px;
     padding-right: 200px;
     padding-top: 100px;
     font-size: 80px;
 }
-.bottomcontainer{
-    background-color: orange;
-    height: 200px;
-    padding-left: 200px;
-    padding-right: 200px;
-    padding-top: 100px;
-    font-size: 80px;
+.span{
+  background-color: blue;
 }
 .n{
   padding-top: 200px;
@@ -136,4 +158,17 @@ h1{
   .i5{
     height: 300px;
     width: 300px;
+  }
+  .a1{
+    height: 250px;
+    width: 400px;
+    margin-left: 100px;
+  }
+  .b1{
+    height: 250px;
+    width: 400px;
+    margin-left: 500px;
+  }
+  .ccc{
+    background-color: yellow;
   }
