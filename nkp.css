@@ -71,6 +71,12 @@ body{
   font-style: oblique;
   font-size: 150px;
 }
+.np{
+  padding-top: 100px;
+  padding-left: 200px;
+  font-style: oblique;
+  font-size: 90px;
+}
 .t1{
   font-size:  20px;
   position:fixed;
