@@ -17,7 +17,7 @@ body{
   width: 100px;
   border-radius: 100px;
 }
-.h1{
+h1{
   margin-top: 0;
 }
 .a{
@@ -34,7 +34,7 @@ body{
     height: 200px;
     padding-left: 200px;
     padding-right: 200px;
-    padding-top: 100px;
+    padding-top: 200px;
     font-size: 80px;
   }
   .m2{
@@ -66,16 +66,16 @@ body{
   background-color: blue;
 }
 .n{
-  padding-top: 200px;
-  padding-left: 200px;
+  margin-top: 300px;
+  padding-left: 150px;
   font-style: oblique;
   font-size: 150px;
+  margin-left: 400px;
 }
 .np{
   padding-top: 100px;
-  padding-left: 200px;
+  padding-left: 400px;
   font-style: oblique;
-  font-size: 90px;
 }
 .t1{
   font-size:  20px;
@@ -83,16 +83,18 @@ body{
 }
 .bb{
   padding-top: 200px;
-  padding-left: 150px;
-  width: 120px;
-  height: 120px;
-}
-.cc{
-  padding-top: 200px;
   padding-left: 200px;
   width: 120px;
   height: 120px;
+ position:absolute;
 }
+.cc{
+  padding-left: 1250px;
+  padding-top: 200px;
+  width: 120px;
+  height: 120px;
+  position:absolute;}
+
 .n1{
   background-color: aqua;
 
@@ -178,4 +180,8 @@ body{
   }
   .ccc{
     background-color: yellow;
+  }
+  .ppp{
+   text-align: center;
+   margin-top:  100px ;
   }
