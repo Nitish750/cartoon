@@ -89,7 +89,7 @@ h1{
  position:absolute;
 }
 .cc{
-  padding-left: 1250px;
+  padding-left: 200px;
   padding-top: 200px;
   width: 120px;
   height: 120px;
@@ -181,4 +181,7 @@ h1{
   .ccc{
     background-color: yellow;
   }
- 
+  .ppp{
+   text-align: center;
+   margin-top:  100px ;
+  }
